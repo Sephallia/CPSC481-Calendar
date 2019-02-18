@@ -1,6 +1,6 @@
 document.write(
-"Dennis Nguyen " +
-"Devon Gillis " +
-"Gurneck Johal " +
-"Mikhail Starikov "
+"Dennis Nguyen: Programmer, Contact<br>" +
+"Devon Gillis: Programmer<br>" +
+"Gurneck Johal: Programmer, Coordinator<br>" +
+"Mikhail Starikov: Programmer<br>"
 );
